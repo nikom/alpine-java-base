@@ -1,4 +1,4 @@
-FROM alpine:3.1
+FROM alpine:3.2
 MAINTAINER Niko Mahle "niko.mahle@googlemail.com"
 
 RUN apk update && apk upgrade
